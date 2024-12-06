@@ -1,3 +1,11 @@
-# PORTFOLIO-VERSION-1
- catch the live website https://siddhu-nioh.github.io/PORTFOLIO-VERSION-1/
- ![project-8](https://github.com/siddhu-nioh/PORTFOLIO-VERSION-1/assets/121369671/b244d751-8482-4861-b83f-c64259ca7d66)
+"Thank you for the opportunity to introduce myself. My self Chinna Siva Krishna Thota, and I’m completed my B.Tech in Artificial Intelligence and Machine Learning at Swarnandhra College of Engineering and Technology, where I have maintained a CGPA of 7.75. Alongside my formal education, I am also enrolled in an Industry Ready Certification program in Full-Stack Development with Nxtwave Disruptive Technologies, which has helped me build practical expertise in modern web technologies.
+
+Throughout my academic journey, I have developed a strong interest in AI, machine learning, and full-stack development, and I have been working on various personal projects to apply my skills. For example, I developed EClass, a student progress management platform that integrates both admin and client views, enabling users to track progress, course details, and announcements. Another significant project I worked on is the Auto Mock Interviews platform, built with the MERN stack, which helps MBA students book mentorship sessions based on their preferences and mentor availability.
+
+I have also built several other applications, including a Blog Platform for managing posts with CRUD operations, a personalized Chatbot that engages users, and a custom Wikipedia search application, where users can easily fetch and view search results from Wikipedia. Each of these projects allowed me to deepen my knowledge of front-end technologies like React.js, HTML, CSS, and JavaScript, and back-end technologies such as Node.js, Express, and MongoDB.
+
+In addition to my technical skills, I have gained valuable internship experience as a Junior Software Engineer at VTS, where I worked on both the MERN stack and Spring Boot with React.js, contributing to the development of full-stack applications. My certifications in AI-ML and Cyber Security have also provided me with practical, hands-on experience in data preprocessing, model building, threat analysis, and vulnerability assessment.
+
+Beyond my technical work, I have been involved in extracurricular activities like sports and drama, where I earned a medal in Kabaddi and a Drama Shield Award for my contributions to school productions. These experiences have helped me develop leadership, teamwork, and communication skills, which I believe are important in any professional setting.
+
+In summary, I am passionate about leveraging technology to solve real-world problems, and I am constantly seeking opportunities to grow my skills and contribute to innovative projects. I am excited about the chance to bring my technical expertise, problem-solving abilities, and enthusiasm for learning to your team."
